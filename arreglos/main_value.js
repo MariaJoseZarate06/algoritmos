@@ -11,7 +11,6 @@ function getAverage(a){
     }
     return suma / a.length
 }
-
 function getMinValue(a){
     if (a.length == 0) return -1
     let min = a[0]
